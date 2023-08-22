@@ -22,7 +22,7 @@
     "dotenv": "^16.1.3",
     "formik": "^2.4.1",
     "jquery": "^3.7.0",
-    "liquidjs": "^10.7.1",
+    "liquidjs": "^10.8.4",
     "lodash": "^4.17.21",
     "mixpanel": "^0.17.0",
     "mixpanel-browser": "^2.47.0",
